@@ -15,7 +15,7 @@ var industry = require('industry-info');
 // or
 import industry from 'industry-info';
 
-var result = industry.json();
+var result = industry.data();
 ```
 
 ## API
