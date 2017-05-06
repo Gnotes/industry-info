@@ -1,0 +1,22 @@
+{
+  "name": "industry-info",
+  "version": "1.0.0",
+  "description": "行业信息",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xing-He/industry-info.git"
+  },
+  "keywords": [
+    "行业信息"
+  ],
+  "author": "xing.he",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xing-He/industry-info/issues"
+  },
+  "homepage": "https://github.com/Xing-He/industry-info#readme"
+}
