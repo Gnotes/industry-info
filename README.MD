@@ -23,7 +23,7 @@ var result = industry.json();
 - data
   返回Json原始数据
 
-  ```
+```json
 {
   "data":[
     {"code" : "01"    ,"level" : 1 ,"parent_code" : null ,"name" : "农、林、牧、渔"},
@@ -38,7 +38,7 @@ var result = industry.json();
     {"code" : "02080" ,"level" : 2 ,"parent_code" : "02" ,"name" : "黑色金属矿采选业", "remarks" : "采矿、选矿、铁矿、锰矿、铬矿采选"}
   ]
 }
-  ```
+```
 
 - tree
   返回树形数组数据
